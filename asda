@@ -1,0 +1,530 @@
+_____________is a comparison of functionality between an existing system and a desired new system.
+
+Select one:
+a. Requirement elicitation
+b. Use cases analysis
+c. Document analysis
+d. Gap analysis - d
+"Provide a description of the user actions and corresponding system responses that will take place during execution of the use case under normal, expected conditions". This activity belong the __________ section in use case document.
+
+Select one:
+a. Alternative Flows
+b. Normal Flow
+c. Exceptions
+d. Postconditions - b
+A __________________ is discarded after it has been used to generate feedback, whereas an evolutionary prototype grows into the final product through a series of iterations.
+
+Select one:
+a. horizontal prototype
+b. paper prototype
+c. mock-up prototype
+d. throwaway prototype - d
+A key tool for software designer, developer and their test team is to carry out their respective tasks is defined by:
+
+Select one:
+a. Technical documentation
+b. Requirements documentation
+c. Software design documentation
+d. Users document - B
+Business requirements issues must be resolved:
+
+Select one:
+a. before the functional and nonfunctional requirements can be fully specified.
+b. after the nonfunctional requirements can be fully specified.
+c. along the functional and nonfunctional requirements can be fully specified.
+d. after the functional and nonfunctional requirements can be fully specified. - a
+Business requirements might come from
+
+Select one or more:
+a. funding sponsors
+b. corporate executives
+c. team members
+d. marketing managers
+e. end users
+f. product visionaries - a, b, d, e
+Change management can also be called
+
+Select one:
+a. change prevention
+b. change control
+c. change execution
+d. change coordination - b
+Customer needs are traced______________, so you can tell which requirements will be affected if those needs change during or after development
+
+Select one:
+a. forward from requirements
+b. backward to requirements
+c. forward to requirements
+d. backward from requirements - c
+Defining links between individual functional and nonfunctional requirements and specific system elements is an action of tracing ______________
+
+Select one:
+a. backward to requirements
+b. forward from requirements
+c. backward from requirements
+d. forward to requirements - b
+Developing acceptance tests and criteria to confirm that a product based on the requirements
+
+Select one:
+a. validation phase
+b. elicitation phase
+c. analysis phase
+d. specification phase - a
+Giving an example of quality requirements: "Authorization of an ATM withdrawal request shall take no more than 2.0 seconds". This is a__________
+
+
+
+Select one:
+a. performance requirement
+b. interoperability requirement
+c. reliability requirement
+d. robustness requirement - a
+How about estimating project size and effort from requirements? Based on 
+
+Select one or more:
+a. function points (Jones 1996b; IFPUG 2010) 
+b. the number, type, and complexity of user interface elements 
+c. the number of individually testable requirements (Wilson 1995) 
+d. story points (Cohn 2005; McConnell 2006) or use case points (Wiegers 2006)
+e. estimated lines of code needed to implement specific requirements - a , b, c, d, e
+How to identify user classes?
+
+Select one:
+a. Base on the tasks that various users will perform with the system
+b. Base on the roles that various users will take with the system
+c. Base on the responsibilies that various users will play with the system
+d. Base on the jobs that various users will do with the system - a
+How to reduce the gap between what the customer needs and what the developer builds?
+
+Select one:
+a. developers should postpone the role of customer in project
+b. have ongoing conversations between developers and customers
+c. developers should do what the customer needs
+d. developers need to catch up with the demands of customers - b
+How to resolve requirements disputes between individual users?
+
+Select one:
+a. Product champion or product owner decide
+b. Favored user class gets preference
+c. Segment with greatest impact on business success gets preference
+d. Business objectives dictate direction - a
+Identify class users could be based on their access privilege or security levels,the features and 
+
+Select one or more:
+a. The frequency with which they use the product
+b. The tasks they perform during their business operations
+c. The platforms they will be using
+d. Their native language
+e. Their personality traits - a, b, c
+In Agile project, a single representative of stakeholders is called
+
+Select one:
+a. product representative
+b. product champion
+c. product owner
+d. product supplier - c
+In Agile project, the product owner and product champion schemes are _______
+
+Select one:
+a. not mutually exclusive
+b. not supported mutually
+c. supported mutually
+d. mutually exclusive - a
+In the elicitation process, which task(s) could be done?
+
+Select one or more:
+a. Perform document analysis
+b. Examine problem reports
+c. Adopt requirement document template
+d. Reuse existing requirements
+e. Create prototypes
+f. Identify requirement origins - a, b, d
+In the V model, the user requirements are detected by ___________
+
+Select one:
+a. System testing
+b. Integration testing
+c. Acceptance testing
+d. Unit testing - c
+Managing requirements changes is difficult because
+
+Select one or more:
+a. high reliance on a single person
+b. stakeholders always change their demands
+c. document-centric process
+d. technology usually out of date
+e. difficult to understand the impact
+f. lack of visibility - a, c, e, f
+Performance is an external quality attribute which could be described:
+
+Select one:
+a. How easily the system can interconnect and exchange data with other systems or components
+b. How well the system protects against unauthorized access to the application and its data
+c. How easy it is for people to learn, remember, and use the system
+d. How easily the system can grow to handle more users, transactions, servers, or other extensions
+e. How quickly and predictably the system responds to user inputs or other events - e
+Regarding user pesonas, a persona is a ____
+
+Select one:
+a. a description of a hypothetical, generic person
+b. a description of characteristics person
+c. a description of a group of users giving requirements
+d. a characteristics of user class - a
+Requirements management includes all activities that maintain ______________ of requirements agreements throughout the project.
+
+Select one or more:
+a. currency
+b. compatibility
+c. accuracy 
+d. integrity - a, c, d
+Requirements tracing is most likely concerned with the following(recovering the source of requirements from) 
+
+Select one:
+a. Observation to elicitation technique
+b. Software requirement back to the system requirement it supports 
+c. Software requirement to validation test
+d. Analysis into requirements specification document - b
+Resolving conflicting requirements are
+
+Select one or more:
+a. finding the same voice of all class users
+b. determining who the decision makers will be for requirements issues
+c. supporting the end users who could understanding their tasks
+d. handling arbitrate questions of scope - a, b, d
+The business analyst could be
+
+Select one or more:
+a. Systems analyst
+b. Requirement analyst
+c. System developer
+d. Requirement manager
+e. Application analyst
+f. Requirements engineer - a, b, d, e, f
+The Change Control Board will have a _____ who leads the team, and can often have the ability to overrule votes
+
+Select one:
+a. liaison
+b. coordinator
+c. president
+d. chairperson - d
+The change management board has a scope of authority that indicates what changes the team has the ability to _____ before elevating to a higher authority
+
+Select one:
+a. deny
+b. approve
+c. review
+d. approve or deny - d
+The important goals of writing requirement:
+
+Select one:
+a. None of the answers
+b. Each reader's interpretation matches what the author intended to communicate
+c. Anyone who reads the requirement comes to the same interpretation as any other reader
+d. Each implementation of readers matches what the author intended to communicate - c
+The iterations in Agile method should be 
+
+Select one or more:
+a. one week
+b. one day
+c. one year
+d. one month - a, d
+The MoSCoW prioritization scheme stand for four possible priority classifications for the requirements in a set (IIBA 2009):
+
+Select one:
+a. May, Should, Could, Won't
+b. May, Should, Can, Won't
+c. Must, Should, Can, Will
+d. Must, Should, Could, Won't - d
+The product champions is
+Select one:
+a. a person supplying requirements
+b. a person of our user community to provide the requirements
+c. a group members of our user community to provide the requirements
+d. a few key members of user community to provide the requirements - d
+The requirement will be implemented in a future release, this is _______status
+
+Select one:
+a. deferred
+b. approved
+c. deleted
+d. implemented
+e. verified - a
+The requirements change management determines 
+
+Select one or more:
+a. process for requirements change
+b. who will implement the functional changes
+c. which stakeholders need to approve change
+d. who does not need to be involved
+e. who will be consulted or informed of change - a, c, d, e
+The Software Requirements Specification document could not contain:
+
+Select one or more:
+a. The algorithm for software implementation
+b. The test case for every function
+c. Functional requirements
+d. Nonfunctional requirements
+e. Business rules - a, b
+To depict the complex logic, which representation technique should be used?
+
+Select one:
+a. Data dictionary
+b. Decision tree
+c. Swimlane diagram
+d. State-transition diagram
+e. Data flow diagram - b
+To depict the data definitions and data object relationships, which representation technique should be used?
+
+Select one or more:
+a. Data dictionary
+b. Data flow diagram
+c. Context diagram
+d. Entity relationship diagram
+e. Swimlane diagram - a, d
+Updating sets of requirements is an activity of
+
+Select one:
+a. version control
+b. requirements status tracking
+c. change control
+d. requirements tracing - c
+We need decision makers and decision rules to move project ahead including
+
+Select one or more:
+a. resolving conflicts
+b. meeting between developers and end users
+c. approving a set of requirements
+d. accepting or rejecting a proposed change - a, b, d
+What happens during static testing?
+
+Select one:
+a. The programmers monitor the data entry screens as data is entered
+b. The software is installed and tested for any logic errors
+c. The code is examined for quality and efficiency
+d. The users report missing functionality to the programmers - c
+What happens to a rejected change request?
+
+Select one:
+a. It is closed
+b. It gets incorporated without anyone knowing
+c. It stops.
+d. Nothing - c
+What is a software requirements specification (SRS) document?
+
+Select one:
+a. A document detailing software requirements and specifications
+b. A document which features instructions for how to install new software and test it for errors
+c. A document used while testing the software code for validity
+d. A document listing the time it takes to execute the existing manual processes - a
+What is not the essential aspects of an agile approach to requirements?
+
+Select one:
+a. Documentation detail
+b. Expect change
+c. Budget change
+d. Customer involvement
+e. The backlog and prioritization
+f. Timing - c
+When the BA prepare questions and straw man models in a single requirements elicitation?
+
+Select one:
+a. document requirements
+b. Perform elicitation activities
+c. Follow up after elicitation
+d. Prepare for elicitation - d
+Which are the challenges that outsourced projects have to face:
+
+Select one or more:
+a. Remote developers lack the organizational and business knowledge
+b. Too many candidates
+c. Incorrect solution expectations
+d. It's harder to get developer input on requirements and to pass along user feedback on delivered software to developers.
+e. Language and cultural barriers
+f. Large time zone differences - a, d, e, f
+Which are the most common challenges with packaged solutions?
+
+
+
+Select one or more:
+a. Too many candidates
+b. Vendor misrepresents package capabilities, Users reject the solution
+c. Incorrect solution expectations
+d. Large time zone differences.
+e. Language and cultural barriers - a, b, c, e
+Which are the roles of business analyst?
+
+Select one or more:
+a. Document the needs of the project stakeholders
+b. Elicit the needs of the project stakeholders
+c. Analyze the needs of the project stakeholders
+d. Implement the needs of the project stakeholders
+e. Validate the needs of the project stakeholders - a, b, c, e
+Which are the techniques to reprent the project scope
+
+Select one or more:
+a. Feature tree
+b. Context diagram
+c. ERD
+d. Even list
+e. Ecosystem map
+f. Use case diagram - a, b, d, e
+Which could requirements be reused within an operating environment or platform?
+
+Select one or more:
+a. Constraints
+b. Interfaces
+c. Infrastructures of functionality needed to support certain types of requirements (such as a report generator)
+d. Business rules
+e. stakeholder profiles - a, b, c
+Which is (are) not the roles of business analyst on Agile project?
+
+Select one or more:
+a. Help determine the best approach to document the backlog, including whether story cards or more formal tools are most appropriate
+b. Preparing reports on programming project specifications, activities, or status
+c. Ensure that requirements documentation is at the right level: not too little and not too much
+d. Work with the rest of the team to determine the impact of changes on iteration contents and release plans
+e. Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements - b, e
+Which is (are) not the taks of business analyst?
+
+Select one or more:
+a. Directing software programming and documentation development
+b. Identify project stakeholders and user classes
+c. Manage requirements
+d. Directing system testing and validation procedure
+e. Define business requirements
+f. Plan the requirements approach - a, d
+Which is (are) the essential Agile techniques to improve traditional requirements documentation?
+
+Select one or more:
+a. compliment user stories with supporting artifacts
+b. invest in your User Stories
+c. create prototypes
+d. Create story board
+e. create requirements that slice the cake
+f. groom your User Stories often - a, b, c, e, f
+Which is (are) the type of Agile method?
+
+Select one or more:
+a. Kanban
+b. Scrum
+c. Use case driven
+d. Extreme Programming
+e. Feature-Driven Development
+f. Lean Software Development - a, b, d, e, f
+Which is not an activity for a single requirements elicitation session?
+
+Select one:
+a. Follow up after elicitation
+b. Perform elicitation activities
+c. Requirements Documentation
+d. Prepare for elicitation - c
+Which is not the purpose of software prototype?
+
+Select one:
+a. Clarify, complete, and validate requirements
+b. Specific technologies, tools, languages, and databases that must be used or avoided
+c. Create a subset that will grow into the ultimate product
+d. Explore design alternatives - b
+Which is one of the most important stakeholder from the following ?
+
+Select one:
+a. Managers
+b. Users of the software
+c. Entry level personnel
+d. Middle level stakeholder - b
+Which is the definition of functional requirement?
+Select one:
+a. A goal or task that specific classes of users must be able to perform with a system, or a desired product attribute
+b. A policy, guideline, standard, or regulation that defines or constrains some aspect of the business. Not a software requirement in itself, but the origin of several types of software requirements
+c. A description of a property or characteristic that a system must exhibit or a constraint that it must respect
+d. A description of a behavior that a system will exhibit under specific conditions
+e. A top-level requirement for a product that contains multiple subsystems, which could be all software or software and hardware
+f. A restriction that is imposed on the choices available to the developer for the design and construction of a product - d
+Which is the definition of nonfunctional requirement?
+
+Select one:
+a. A description of a behavior that a system will exhibit under specific conditions
+b. A policy, guideline, standard, or regulation that defines or constrains some aspect of the business. Not a software requirement in itself, but the origin of several types of software requirements
+c. A top-level requirement for a product that contains multiple subsystems, which could be all software or software and hardware
+d. A description of a property or characteristic that a system must exhibit or a constraint that it must respect
+e. A goal or task that specific classes of users must be able to perform with a system, or a desired product attribute
+f. A restriction that is imposed on the choices available to the developer for the design and construction of a product - d
+Which is(are) external quality?
+
+Select one or more:
+a. Installability
+b. Integrity
+c. Efficiency
+d. Availability
+e. Security - a, b, d, e
+Which is(are) quality attributes that we should consider their effects on desktop and mobile systems:
+
+Select one:
+a. performance, security, usability
+b. integrity, interoperability, performance
+c. availability, integrity, interoperability
+d. performance, efficiency, reliability - a
+Which is(are) the limitations of a document-based approach in developing and managing requirements ?
+
+Select one or more:
+a. Communicating changes to all affected team members is a manual process
+b. It's not easy to store supplementary information—attributes—about each requirement.
+c. It's hard to define links between requirements and other system elements
+d. Manage and prioritize backlogs, allocate requirements to iterations
+e. It's difficult to keep the documents current and synchronized. - a, b, c, e
+Which is(are) the main purpose of use cases?
+
+Select one:
+a. Provide a brief description of the reason for and outcome of system
+b. Exploring the requirements for embedded and other real-time systems
+c. Exploring the requirements for business applications, websites, kiosks, and systems that let a user control a piece of hardware
+d. Exploring the requirements for batch processes, computationally intensive systems, business analytics, and data warehousing. - c
+Which is(are) true when we compare the purpose use case diagram and context diagram?
+
+Select one or more:
+a. The arrows in a context diagram indicate the flow of data, control signals, or physical materials across the system boundary
+b. The arrows in a use case diagram simply indicate the connections between actors and use cases in which they participate; they do not represent a flow of any kind
+c. The use case diagram depicts the data and functions of project while context diagram only illustrates the flow of data.
+d. Both define the scope boundary between objects that lie outside the system and things inside the system - a, b, d
+Which is/are not the requirements elicitation techniques?
+
+Select one or more:
+a. Interviews
+b. Rational Unified Process(RUP)
+c. Workshops
+d. Focus groups
+e. Questionaires - b
+Which of the following is NOT the purpose of software verification and validation?
+
+Select one:
+a. To make sure that there are no programming errors in the software
+b. To make sure that the users are correctly using the program
+c. To make sure there are no errors when running the program
+d. To make sure that all software requirements have been implemented - c
+Which one of the following is a functional requirement ?
+
+Select one:
+a. Robustness
+b. Security
+c. Maintainability
+d. Order products
+e. Portability - d
+Why do the business requirements conflict?
+
+Select one or more:
+a. Because they are collected from multiple documents
+b. Because they come from a wide range stakeholders
+c. Because they are issued from end users
+d. Because they are collected from group of developers - a, b
+Why reuse requirements?
+Select one or more:
+a. Faster delivery, lower development costs, consistency both within and across applications, higher team productivity, fewer defects, and reduced rework.
+b. to estimate implementation effort if you have data available from implementing the same requirements on a previous project.
+c. save review time, accelerate the approval cycle, and speed up other project activities, such as testing
+d. improve functional consistency across related members of a product line or among a set of business applications - a, b, c, d
+Why should we prioritize the requirements?
+Select one or more:
+a. To provide the highest value at the lowest cost.
+b. To deal with competing demands for limited resources
+c. Develop products through a series of fixed-schedule timeboxes for agile or other projects
+d. Help the project deliver the maximum business value as quickly as possible within the project constraints - a, b, c, d
